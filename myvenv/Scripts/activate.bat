@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=C:\Users\Aameshi Godara\Desktop\forage-jpmc-swe-task-1\myvenv
+set VIRTUAL_ENV=C:\Users\Aameshi Godara\Desktop\Job Simulations\JPMC\Software Engineering\forage-jpmc-swe-task-1\myvenv
 
 if not defined PROMPT set PROMPT=$P$G
 
